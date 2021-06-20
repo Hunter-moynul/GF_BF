@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # Author : Technical SAA
 
-from requests.exceptions import ConnectionError 
+from requests.exceptions import
 from cookielib import LWPCookieJar as Cookie
 from bs4 import BeautifulSoup
 import requests, random, time, sys, os, re
